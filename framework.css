@@ -1,0 +1,192 @@
+.container {
+    width: 100%;
+}
+
+.container-inline-block {
+    display: inline-block;
+    width: 100%;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-start {
+    justify-content: flex-start;
+}
+
+.flex-center {
+    justify-content: center;
+}
+
+.flex-end {
+    justify-content: flex-end;
+}
+
+.flex-space-around {
+    justify-content: space-around;
+}
+
+.flex-space-between {
+    justify-content: space-between;
+}
+
+.flex-aling-stretch {
+    align-items: stretch;
+}
+
+.flex-aling-start {
+    align-items: flex-start;
+}
+
+.flex-aling-center {
+    align-items: center;
+}
+
+.flex-aling-end {
+    align-items: flex-end;
+}
+
+.height {
+    height: 80px;
+}
+
+.height2 {
+    height: 40px;
+}
+
+.col- {
+    background-color: #006CFA;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    float: left;
+    border: 1px solid white;
+}
+
+.col-green {
+    background-color: #00E165;
+    border: 1px solid #006CFA;
+}
+
+.margin {
+    margin-top: 20px;
+}
+
+.margin-bottom {
+    margin-bottom: 20px;
+}
+
+.margin-left1 {
+    margin-left: calc((100% / 12) * 1);
+}
+
+.margin-left2 {
+    margin-left: calc((100% / 12) * 2);
+}
+
+
+.margin-left3 {
+    margin-left: calc((100% / 12) * 3);
+}
+
+
+.margin-left4 {
+    margin-left: calc((100% / 12) * 4);
+}
+
+
+.margin-left5 {
+    margin-left: calc((100% / 12) * 5);
+}
+
+
+.margin-left6 {
+    margin-left: calc((100% / 12) * 6);
+}
+
+
+.margin-left7 {
+    margin-left: calc((100% / 12) * 7);
+}
+
+
+.margin-left8 {
+    margin-left: calc((100% / 12) * 8);
+}
+
+
+.margin-left9 {
+    margin-left: calc((100% / 12) * 9);
+}
+
+
+.margin-left10 {
+    margin-left: calc((100% / 12) * 10);
+}
+
+
+.margin-left11 {
+    margin-left: calc((100% / 12) * 11);
+}
+
+
+.margin-left12 {
+    margin-left: calc((100% / 12) * 12);
+}
+
+.hidden {
+    color: #006CFA;
+}
+
+.hidden-green {
+    color: #00E165;
+}
+
+.col-1 {
+    width: calc((100% / 12) * 1);
+}
+
+.col-2 {
+    width: calc((100% / 12) * 2);
+}
+
+.col-3 {
+    width: calc((100% / 12) * 3);
+}
+
+.col-4 {
+    width: calc((100% / 12) * 4);
+}
+
+.col-5 {
+    width: calc((100% / 12) * 5);
+}
+
+.col-6 {
+    width: calc((100% / 12) * 6);
+}
+
+.col-7 {
+    width: calc((100% / 12) * 7);
+}
+
+.col-8 {
+    width: calc((100% / 12) * 8);
+}
+
+.col-9 {
+    width: calc((100% / 12) * 9);
+}
+
+.col-10 {
+    width: calc((100% / 12) * 10);
+}
+
+.col-11 {
+    width: calc((100% / 12) * 11);
+}
+
+.col-12 {
+    width: calc((100% / 12) * 12);
+}
