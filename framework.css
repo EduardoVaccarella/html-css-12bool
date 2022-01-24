@@ -4,7 +4,10 @@
 
 .container-inline-block {
     display: inline-block;
-    width: 100%;
+}
+
+.container2 {
+    width: 50%;
 }
 
 .flex {
